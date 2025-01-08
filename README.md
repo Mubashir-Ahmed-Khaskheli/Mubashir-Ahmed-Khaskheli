@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubashir Ahmed</h1>
 <h3 align="center">Aspiring Full stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0WGyQunwuxkHhPcCpGTZGh&ust=1736443733586000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIj2paPT5ooDFQAAAAAdAAAAABB_">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flucasfsilva94%2Flucasfsilva94&psig=AOvVaw0WGyQunwuxkHhPcCpGTZGh&ust=1736443733586000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCIj2paPT5ooDFQAAAAAdAAAAABDYAQ">
 
 
 
