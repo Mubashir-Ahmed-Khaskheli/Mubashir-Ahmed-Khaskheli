@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubashir Ahmed</h1>
 <h3 align="center">Aspiring Full stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flucasfsilva94%2Flucasfsilva94&psig=AOvVaw0WGyQunwuxkHhPcCpGTZGh&ust=1736443733586000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCIj2paPT5ooDFQAAAAAdAAAAABDYAQ">
-
-
+<img align="right" alt="coding" width="400" src="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashir-ahmed-khaskheli&label=Profile%20views&color=0e75b6&style=flat" alt="mubashir-ahmed-khaskheli" /> </p>
@@ -16,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mubashir ahmed khaskheli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashir ahmed khaskheli" height="30" width="40" /></a>
 <a href="https://instagram.com/mubashir_ahmed211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashir_ahmed211" height="30" width="40" /></a>
 </p>
 
