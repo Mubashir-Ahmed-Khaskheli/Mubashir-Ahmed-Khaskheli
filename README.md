@@ -26,4 +26,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashir-ahmed-khaskheli&show_icons=true&locale=en&layout=compact" alt="mubashir-ahmed-khaskheli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir-ahmed-khaskheli&" alt="mubashir-ahmed-khaskheli" /></p>
